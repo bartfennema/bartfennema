@@ -2,7 +2,7 @@
 - 👀 I’m interested in Zen, Yoga, Allotment, Baking Sourdough bread, Linux, Emacs, Knowledge management, Islamic geometry
 - 🌱 I’m currently learning git, Emacs org-mode, Lisp (sbcl)
 - 📫 You can reach me on git@mieterseboel.simplelogin.com
-- Mastodon: https://eu.mastodon.green/@bart
+- Mastodon: [https://eu.mastodon.green/@bart](https://wandering.shop/@bartf1969)
 
 <!---
 bartfennema/bartfennema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
